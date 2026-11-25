@@ -40,16 +40,16 @@ no leaderboards, fake currencies or rewards for empty activity.
 
 ## The experience
 
-| Stage              | What happens                                                                                                                       |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Buy-In**         | Four quick calls set the day's strategy: your approach, what's in the way, the time you have and today's goal.                     |
-| **Casino Floor**   | The Current Hand (the recommended next play) with its reason, plus the day's goal, commitments, meetings and remaining time.       |
-| **Cards**          | Work the plan in order, dealt from the shoe. Recorded hands land in honest piles: played, follow-ups, later today and moved.       |
-| **Roulette**       | An optional pick from a visible pool of optional hands, each with an equal chance. Commitments and meetings are never in the pool. |
-| **Slots**          | The reels reveal the Current Hand: account, action and why. They always stop on the real hand, and spinning is optional.           |
-| **Record Outcome** | Connected, outreach sent, follow-up needed or no action taken. Meetings and meeting prep have their own outcomes.                  |
-| **The Deck**       | The full work plan: meetings, commitments, optional hands, deal context and what changed since the last session.                   |
-| **Cash Out**       | An end-of-day summary: what was played, follow-ups set, commitment accounting and what carries over.                               |
+| Stage              | What happens                                                                                                                                                |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Buy-In**         | Four quick calls set the day's strategy: your approach, what's in the way, the time you have and today's goal.                                              |
+| **Casino Floor**   | The Current Hand (the recommended next play) with its reason, plus the day's goal, commitments, meetings and remaining time.                                |
+| **Cards**          | Work the plan in order, dealt from the shoe. Recorded hands land in honest piles: played, follow-ups, later today and moved.                                |
+| **Roulette**       | An optional pick from a visible pool of optional hands, each with an equal chance. Commitments and meetings are never in the pool.                          |
+| **Slots**          | Pull the lever to reveal the Current Hand: account, action and why. The reels always stop on the real hand, and you can record an outcome without spinning. |
+| **Record Outcome** | Connected, outreach sent, follow-up needed or no action taken. Meetings and meeting prep have their own outcomes.                                           |
+| **The Deck**       | The full work plan: meetings, commitments, optional hands, deal context and what changed since the last session.                                            |
+| **Cash Out**       | An end-of-day summary: what was played, follow-ups set, commitment accounting and what carries over.                                                        |
 
 Cards, Roulette and Slots are three ways to work **the same plan**: switching games never changes the
 work or the counts. The [demo walkthrough](docs/DEMO_WALKTHROUGH.md) covers every stage step by step.

@@ -109,8 +109,9 @@ Roulette adds variety to optional work without ever replacing what's due.
 Slots reveals the Current Hand on three reels: **Account**, **Action** and **Why**. The reels always
 stop on the real Current Hand. Slots is a briefing, not a game of chance.
 
-Pull the lever or select **Spin** to watch the reveal. Spinning is optional, and you can act on the
-hand straight away. Record the outcome below the machine, as in Cards.
+The reels wait face down until you pull the lever or select **Spin**. After each outcome they reset,
+so every new hand is revealed by your next pull. You can still record an outcome straight away;
+Record Outcome names the hand. Record the outcome below the machine, as in Cards.
 
 ![Slots: the PLAYBOOK machine showing the Current Hand's account, action and reason on three reels, with Record outcome below.](../assets/screenshots/slots.jpg)
 
